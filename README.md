@@ -8,3 +8,4 @@ How to use the GUI:
 5) Click the calculate button. 
 6) Energy, crude protein, crude fiber, crude fat content, and total mineral content will then be displayed beneath the calculate button in the window. 
 7) If desired, the reset button can be clicked. This will set every value in the window back to zero, and you can start again from step 3. 
+8) When finished, click the x in the top right corner of the window to exit. 
